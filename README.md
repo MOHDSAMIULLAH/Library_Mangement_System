@@ -5,7 +5,7 @@
 
 The system provides functionalities for managing and organizing library resources, such as books, magazines, and other materials.</br>
 The system includes an admin panel and a login/signup page for users.</br>
-Import library_managment.sql on database
+
 Key features of the system include:</br>
 User Registration and Login: Users can create an account and log in to the system using their credentials.</br>
 Admin Panel: The admin panel allows authorized personnel to manage the library resources, user accounts, and other administrative tasks.</br>
@@ -13,6 +13,7 @@ Book Management: The system provides features to add, update, and delete books f
 Borrowing and Returning Books: Users can borrow books from the library by checking the availability and return them within the specified due dates. The system keeps track of borrowed books and manages late returns.</br>
 User Management: The admin has the authority to manage user accounts, including adding new users, editing user information, and disabling or deleting user accounts if necessary.</br>
 The system ensures data integrity by storing all information in a MySQL database, which provides reliable data storage and retrieval capabilities.</br>
+Import library_managment.sql on database</br>
 The implementation of the project follows secure coding practices, including measures to prevent unauthorized access and protect user data.</br>
 The user interface is designed to be intuitive and user-friendly, providing an easy-to-navigate system for both admins and library users.</br>
 The project serves as an efficient solution for libraries, enabling them to streamline their operations, automate processes, and enhance user experience.</br>
