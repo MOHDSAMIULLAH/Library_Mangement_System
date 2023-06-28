@@ -2,6 +2,14 @@
 
 ![image](https://github.com/MOHDSAMIULLAH/Library_Mangement_System/assets/91786605/c06481b5-eaf3-4c76-b87c-2d8aa53975b5)
 
+## Deployed Link: library-management-system.great-site.net
+Adminlogin Details:
+username : sami@gmail.com
+password: 12345
+
+user Login Details:
+username : sami@gmail.com
+password: 12345
 
 The system provides functionalities for managing and organizing library resources, such as books, magazines, and other materials.</br>
 The system includes an admin panel and a login/signup page for users.</br>
