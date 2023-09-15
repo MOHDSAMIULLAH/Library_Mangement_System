@@ -9,7 +9,7 @@ username : sami@gmail.com
 password: 12345
 
 user Login Details:
-username : samiullah0813@gmail.com
+username : sami@gmail.com
 password: 12345
 
 The system provides functionalities for managing and organizing library resources, such as books, magazines, and other materials.</br>
